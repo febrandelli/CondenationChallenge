@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Net.Http;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,6 +20,9 @@ namespace Codenation
             arquivo.decifrado = fraseDescodificada;
             string resumo = hash.GerarHash(fraseDescodificada);
             arquivo.resumo_criptografico = resumo;
+            MultipartFormDataContent form = new MultipartFormDataContent();            
+            //form.Add(new StringContent("Resumo"), resumo);
+
             string jsonToPost = JsonConvert.SerializeObject(arquivo);           
         }
     }

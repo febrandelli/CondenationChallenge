@@ -12,3 +12,17 @@ C:\Users\bruna\source\repos\Codenation\Codenation\obj\Debug\netcoreapp3.0\Codena
 C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
 C:\Users\bruna\source\repos\Codenation\Codenation\obj\Debug\netcoreapp3.0\Codenation.csproj.CopyComplete
 C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\bin\Debug\netcoreapp3.0\Codenation.exe
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\bin\Debug\netcoreapp3.0\Codenation.deps.json
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\bin\Debug\netcoreapp3.0\Codenation.runtimeconfig.json
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\bin\Debug\netcoreapp3.0\Codenation.runtimeconfig.dev.json
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\bin\Debug\netcoreapp3.0\Codenation.dll
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\bin\Debug\netcoreapp3.0\Codenation.pdb
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\obj\Debug\netcoreapp3.0\Codenation.csprojAssemblyReference.cache
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\obj\Debug\netcoreapp3.0\Codenation.AssemblyInfoInputs.cache
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\obj\Debug\netcoreapp3.0\Codenation.AssemblyInfo.cs
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\obj\Debug\netcoreapp3.0\Codenation.csproj.CopyComplete
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\obj\Debug\netcoreapp3.0\Codenation.dll
+C:\Users\felipe.brandelli\source\repos\CondenationChallenge\Codenation\obj\Debug\netcoreapp3.0\Codenation.pdb

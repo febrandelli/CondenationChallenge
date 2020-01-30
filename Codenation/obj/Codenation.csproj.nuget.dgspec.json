@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruna\\source\\repos\\Codenation\\Codenation\\Codenation.csproj": {}
+    "C:\\Users\\felipe.brandelli\\source\\repos\\CondenationChallenge\\Codenation\\Codenation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruna\\source\\repos\\Codenation\\Codenation\\Codenation.csproj": {
+    "C:\\Users\\felipe.brandelli\\source\\repos\\CondenationChallenge\\Codenation\\Codenation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruna\\source\\repos\\Codenation\\Codenation\\Codenation.csproj",
+        "projectUniqueName": "C:\\Users\\felipe.brandelli\\source\\repos\\CondenationChallenge\\Codenation\\Codenation.csproj",
         "projectName": "Codenation",
-        "projectPath": "C:\\Users\\bruna\\source\\repos\\Codenation\\Codenation\\Codenation.csproj",
-        "packagesPath": "C:\\Users\\bruna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruna\\source\\repos\\Codenation\\Codenation\\obj\\",
+        "projectPath": "C:\\Users\\felipe.brandelli\\source\\repos\\CondenationChallenge\\Codenation\\Codenation.csproj",
+        "packagesPath": "C:\\Users\\felipe.brandelli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felipe.brandelli\\source\\repos\\CondenationChallenge\\Codenation\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bruna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\felipe.brandelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://172.26.242.152/Nuget/nuget": {},
+          "http://nuget.bgdigital.com.br/nuget/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,14 +74,6 @@
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[3.0.2, 3.0.2]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
             }
           ],
           "frameworkReferences": {
