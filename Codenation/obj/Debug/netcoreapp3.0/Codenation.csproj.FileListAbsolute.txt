@@ -1,0 +1,14 @@
+C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\Codenation.exe
+C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\Codenation.deps.json
+C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\Codenation.runtimeconfig.json
+C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\Codenation.runtimeconfig.dev.json
+C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\Codenation.dll
+C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\Codenation.pdb
+C:\Users\bruna\source\repos\Codenation\Codenation\obj\Debug\netcoreapp3.0\Codenation.AssemblyInfoInputs.cache
+C:\Users\bruna\source\repos\Codenation\Codenation\obj\Debug\netcoreapp3.0\Codenation.AssemblyInfo.cs
+C:\Users\bruna\source\repos\Codenation\Codenation\obj\Debug\netcoreapp3.0\Codenation.dll
+C:\Users\bruna\source\repos\Codenation\Codenation\obj\Debug\netcoreapp3.0\Codenation.pdb
+C:\Users\bruna\source\repos\Codenation\Codenation\obj\Debug\netcoreapp3.0\Codenation.csprojAssemblyReference.cache
+C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\bruna\source\repos\Codenation\Codenation\obj\Debug\netcoreapp3.0\Codenation.csproj.CopyComplete
+C:\Users\bruna\source\repos\Codenation\Codenation\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
